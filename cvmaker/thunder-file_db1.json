@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Mehak Aijaz",
+      "email": "mehakaijaz716@gmail.com",
+      "dob": "2000-12-17",
+      "gender": "female",
+      "image": "/media/images/likn.png",
+      "location": "Haldwani,Uttarakhand",
+      "rdocs": "/media/rdocs/doc1.txt"
+    }
+  ]
+}
